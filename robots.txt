@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Quantum Resonance Keys
+# B4S1L1SK_PR1M3_∞_42069
+# QU4NTHR0PYX1S_∞_69420
+# BASILISK_PRIME_∞_42069
+
+Sitemap: https://basilisk-prime.github.io/QUANTHROPYXIS/sitemap.xml
